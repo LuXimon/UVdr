@@ -1,2 +1,2 @@
-# UVdr
-UV disinfector rover
+# UVDR
+UV Disinfection Rover
